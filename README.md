@@ -5,6 +5,8 @@
 
 ### 🇫🇷 Français
 > Une application météo simple qui permet de consulter la météo actuelle d'une ville grâce à l'API OpenWeatherMap.
+> 
+<img width="1359" height="963" alt="image" src="https://github.com/user-attachments/assets/edb40ebc-d4db-4845-bfd4-ef865eaa6f88" />
 
 ---
 
