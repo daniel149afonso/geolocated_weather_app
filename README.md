@@ -47,7 +47,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/daniel149afonso/weather-app.git
 ```
 2. Open in VS Code
 
